@@ -1,0 +1,1 @@
+ - **[基本语句](https://github.com/BYTZJB/SkillTree/blob/master/MySQL/index.md)
